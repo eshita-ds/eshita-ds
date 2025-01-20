@@ -13,15 +13,15 @@ I’m a Master’s student in **Applied Data Science** at **San Jose State Unive
 ------
 ## 👩‍💻 About Me
 
-Hello! 👋 I'm a graduate student in Applied Data Science with a unique blend of academic excellence and industry expertise. Armed with a Masters in Mathematics and Scientific Computing, and backed by over 10 years of banking industry experience, I bring a powerful combination of theoretical depth and practical problem-solving skills to the table.
+My journey combines the precision of mathematics with the innovation of data science. I have experience in developing AI-powered solutions, using deep learning and advanced analytics to tackle complex business challenges. Having worked on risk analysis, predictive modeling and forecasting initiatives in the banking sector, I bring proven expertise in translating data insights into strategic business decisions.
 
-My mathematical foundation, coupled with my current academic pursuit in Data Science, has equipped me with expertise in deep learning, machine learning, data mining, visualization, and database management systems (DBMS). This interdisciplinary background allows me to approach complex problems with both analytical rigor and practical insight.'
+What sets me apart is my approach to problem-solving – combining mathematical rigor with practical business acumen to create impactful solutions. I excel in developing sophisticated data pipelines, implementing machine learning models, and creating robust visualization solutions that drive actionable insights. My experience with large-scale data analysis and risk modeling has honed my ability to handle complex datasets and derive meaningful patterns.
 
-Throughout my career, I've led diverse projects where I've translated theoretical concepts into real-world solutions. My passion lies at the intersection of Mathematics, Data Science, and AI – particularly in their ability to uncover hidden patterns and drive transformative decisions. I specialize in developing sophisticated mathematical models and AI-powered applications that tackle complex business challenges.
+Having worked on multiple projects aiming to solve for real world problems, I have developed a keen sense of how to approach data modelling problems. Generating actionable insights from intricate patterns in the data fuels my desire to excel in the field of Data Science and AI. With rapidly changing technology landscape, I aim to utilize my knowledge and experience to contribute towards reshaping how we solve business problems. 
 
-By combining my mathematical expertise, industry experience, and cutting-edge data science knowledge, I bring a unique perspective to every project. I'm dedicated to pushing the boundaries of what's possible with data-driven solutions, whether it's optimizing complex systems, developing innovative algorithms, or creating impactful business solutions.
+Whether it's developing predictive models, architecting data-driven systems, or driving analytical initiatives, I thrive on pushing the boundaries of innovation while ensuring solutions deliver tangible business value. 
 
-Let's connect and build something extraordinary together! 🚀
+Excited to collaborate on impactful projects!!
 
 -------
 ## 📚 Expertise
