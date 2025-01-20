@@ -1,16 +1,30 @@
+<h2 align="center">Hello, I'm Eshita!! 👋</h2>
+<img width="1059" alt="image" src="https://github.com/user-attachments/assets/1633f213-b776-42f7-ad5b-4b8f1eb63e46" />
 
-## Hello, I'm Eshita!! 👋 
+`🎓 Master’s Student in Applied Data Science @ San Jose State University` \
+`🤖 Passionate about AI, Machine Learning, and Deep Learning` \
+`📊 Turning complex data into actionable insights with a dash of creativity` \
+`💻 Exploring innovative solutions in Data Science and Analytics` \
+`🌟 Let’s build the future, one algorithm at a time!` \
+`⏳ Graduating Spring 2025!!`
 
-🎓 Master’s Student in Data Analytics @ San Jose State University \
-🤖 Passionate about AI, Machine Learning, and Deep Learning \
-📊 Turning complex data into actionable insights with a dash of creativity \
-💻 Exploring innovative solutions in Data Science and Analytics \
-🌟 Let’s build the future, one algorithm at a time!
-
+------
 ## 👩‍💻 About Me
 
+Hello! 👋 I'm a graduate student in Applied Data Science with a unique blend of academic excellence and industry expertise. Armed with a Masters in Mathematics and Scientific Computing, and backed by over 10 years of banking industry experience, I bring a powerful combination of theoretical depth and practical problem-solving skills to the table.
+
+My mathematical foundation, coupled with my current academic pursuit in Data Science, has equipped me with expertise in deep learning, machine learning, data mining, visualization, and database management systems (DBMS). This interdisciplinary background allows me to approach complex problems with both analytical rigor and practical insight.'
+
+Throughout my career, I've led diverse projects where I've translated theoretical concepts into real-world solutions. My passion lies at the intersection of Mathematics, Data Science, and AI – particularly in their ability to uncover hidden patterns and drive transformative decisions. I specialize in developing sophisticated mathematical models and AI-powered applications that tackle complex business challenges.
+
+By combining my mathematical expertise, industry experience, and cutting-edge data science knowledge, I bring a unique perspective to every project. I'm dedicated to pushing the boundaries of what's possible with data-driven solutions, whether it's optimizing complex systems, developing innovative algorithms, or creating impactful business solutions.
+
+Let's connect and build something extraordinary together! 🚀
+
+-------
 ## 📚 Expertise
 
+_______
 ## 🎯 Skills
 
 | Languages/Frameworks  | DBMS | Cloud | Python Libraries | Tools | IDE | AI |
@@ -23,7 +37,7 @@
 | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) |  |  | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) |  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
 | ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) |  |  | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) |  | ![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) |
 | ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) |  |  |  |  |  | ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-
+_______
 
 
 
@@ -35,9 +49,9 @@
 ### Database Systems
 ### Data Visualization
 
-## 🏅 Courses / Certifications
+## 🏛️ Courses / Certifications
 
-
+## 🏅 Achievements
 
 <!--
 **eshita1991/eshita1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
