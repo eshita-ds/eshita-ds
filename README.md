@@ -25,7 +25,11 @@ Excited to collaborate on impactful projects!!
 
 -------
 ## 📚 Expertise
+**🤖 AI and Machine Learning:** `Large Language Models (LLM)` `Langchain` `Retrieval Augmented Generation (RAG)` `Deep Learning` `Natural Language Processing` `Computer Vision` `Machine Learning`
 
+**🛠️ Data Engineering:** `Data Pipelines` `Data Visualization` `DBMS Systems` `SQL & NoSQL`
+
+**🔬 Mathematical Techniques:** `Mathematical Modeling & Optimization` `Statistiscal Analysis & Probability` `Predictive Modeling`
 _______
 ## 🎯 Skills
 
