@@ -2,11 +2,12 @@
 <img width="1059" alt="image" src="https://github.com/user-attachments/assets/1633f213-b776-42f7-ad5b-4b8f1eb63e46" />
 
 `🎓 Master’s Student in Applied Data Science @ San Jose State University` \
+`⏳ Graduating Spring 2025!!` \
 `🤖 Passionate about AI, Machine Learning, and Deep Learning` \
 `📊 Turning complex data into actionable insights with a dash of creativity` \
 `💻 Exploring innovative solutions in Data Science and Analytics` \
-`🌟 Let’s build the future, one algorithm at a time!` \
-`⏳ Graduating Spring 2025!!`
+`🌟 Let’s build the future, one algorithm at a time!`
+
 
 ------
 ## 👩‍💻 About Me
@@ -39,9 +40,15 @@ _______
 | ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) |  |  |  |  |  | ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 _______
 
-
-
 ## 📊 Portfolio
+
+Following is a highlight of the various projects I have implemented either individually or as part of a team. I take pride in showcasing my work as it gives me a sense of satisfaction thinking that my work is geared towards solving real world problems. With continous learning and exploration, I have implemented solutions using various techniques and methodologies. Every project highlighted below has a respective GitHub repository link attached. I invite you to look at my implementations, any comments, reviews or feedback will be highly appreciated. 
+
+<!--
+|Project 1 | Project 2 | Project 3|
+|--- | ---| ---|
+|--- URL: \ Description: \| ---| ---|
+
 ### Deep Learning
 ### Computer Vision
 ### Machine Learning
