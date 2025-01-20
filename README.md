@@ -8,6 +8,15 @@
 `💻 Exploring innovative solutions in Data Science and Analytics` \
 `🌟 Let’s build the future, one algorithm at a time!`
 
+<h2 align="center">Hi, I'm Eshita! 👋</h2>
+<p align="center">🌟 Data-Driven Innovator | Problem-Solver | AI Enthusiast 🚀</p>
+
+👋 **Welcome to My GitHub!**  
+I’m **Eshita**, a Master’s student in **Applied Data Science** at **San Jose State University** with over **10 years of industry experience**. Known for my strong fundamentals, problem-solving mindset, and resilience, I thrive on uncovering insights and creating data-driven solutions that drive impact.
+
+🔍 **Currently seeking** full-time roles in **Data Science and AI** to innovate, lead, and contribute to solving meaningful challenges.
+
+*🌟 Curious, collaborative, and outcome-driven—let’s shape the future with data!*
 
 ------
 ## 👩‍💻 About Me
