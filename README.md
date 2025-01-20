@@ -1,22 +1,14 @@
-<h2 align="center">Hello, I'm Eshita!! 👋</h2>
-<img width="1059" alt="image" src="https://github.com/user-attachments/assets/1633f213-b776-42f7-ad5b-4b8f1eb63e46" />
+![github-header-image (5)](https://github.com/user-attachments/assets/59fe01c8-6688-4418-85cd-1c1fb81caff8)
 
-`🎓 Master’s Student in Applied Data Science @ San Jose State University` \
-`⏳ Graduating Spring 2025!!` \
-`🤖 Passionate about AI, Machine Learning, and Deep Learning` \
-`📊 Turning complex data into actionable insights with a dash of creativity` \
-`💻 Exploring innovative solutions in Data Science and Analytics` \
-`🌟 Let’s build the future, one algorithm at a time!`
+<p align="center"><b>🌟 Data-Driven Innovator | Problem-Solver | AI Enthusiast 🚀</b></p>
 
-<h2 align="center">Hi, I'm Eshita! 👋</h2>
-<p align="center">🌟 Data-Driven Innovator | Problem-Solver | AI Enthusiast 🚀</p>
+<h2 align="center">👋 Welcome to My GitHub!</h2>
 
-👋 **Welcome to My GitHub!**  
-I’m **Eshita**, a Master’s student in **Applied Data Science** at **San Jose State University** with over **10 years of industry experience**. Known for my strong fundamentals, problem-solving mindset, and resilience, I thrive on uncovering insights and creating data-driven solutions that drive impact.
+I’m a Master’s student in **Applied Data Science** at **San Jose State University** graduating in May 2025. I have over **10 years of industry experience** with an existing Master's in Mathematics & Scientific Computing. Known for my strong fundamentals, problem-solving mindset, and resilience, I thrive on uncovering insights and creating data-driven solutions that drive impact.
 
 🔍 **Currently seeking** full-time roles in **Data Science and AI** to innovate, lead, and contribute to solving meaningful challenges.
 
-*🌟 Curious, collaborative, and outcome-driven—let’s shape the future with data!*
+*🌟 Curious, collaborative, and outcome-driven — let’s shape the future with data!*
 
 ------
 ## 👩‍💻 About Me
