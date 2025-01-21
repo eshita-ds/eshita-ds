@@ -287,6 +287,20 @@ Following is a highlight of the various projects I have implemented either indiv
 
 ## 🏛️ Courses / Certifications
 
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+- [Python for Data Science and Machine Learning Bootcamp](https://github.com/eshita-ds/credentials/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf)
+- [The Complete SQL Bootcamp](https://github.com/eshita-ds/credentials/blob/main/The%20Complete%20SQL%20Bootcamp.pdf)
+
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) 
+- [Deep Learning for Images with PyTorch](https://github.com/eshita-ds/credentials/blob/main/Deep%20Learning%20for%20Images%20with%20PyTorch.pdf)
+- [Explainable Artificial Intelligence (XAI) Concepts](https://github.com/eshita-ds/credentials/blob/main/Explainable%20Artificial%20Intelligence%20(XAI)%20Concepts.pdf)
+- [Introduction to Deep Learning in Python](https://github.com/eshita-ds/credentials/blob/main/Introduction%20to%20Deep%20Learning%20in%20Python.pdf)
+- [Introduction to Deep Learning with PyTorch](https://github.com/eshita-ds/credentials/blob/main/Introduction%20to%20Deep%20Learning%20with%20PyTorch.pdf)
+- [Introduction to Object-Oriented Programming in Python](https://github.com/eshita-ds/credentials/blob/main/Introduction%20to%20Object-Oriented%20Programming%20in%20Python.pdf)
+- [Introduction to TensorFlow in Python](https://github.com/eshita-ds/credentials/blob/main/Introduction%20to%20TensorFlow%20in%20Python.pdf)
+- [Large Language Models (LLMs) Concepts](https://github.com/eshita-ds/credentials/blob/main/Large%20Language%20Models%20(LLMs)%20Concepts.pdf)
+- [Working with the OpenAI API](https://github.com/eshita-ds/credentials/blob/main/Working%20with%20the%20OpenAI%20API.pdf)
+
 ## 🏅 Achievements
 
 <!--
