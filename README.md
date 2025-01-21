@@ -113,6 +113,7 @@ Following is a highlight of the various projects I have implemented either indiv
     <td><a href="">Link</a></td>
   </tr>
 </table>
+-->
 
 <h3 align=center> Machine Learning (Supervised / Unsupervised) </h3>
 <table>
@@ -122,22 +123,28 @@ Following is a highlight of the various projects I have implemented either indiv
     <th>Repository Link</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td><a href="">Link</a></td>
+    <td><b>Harnessing Helpfulness: Amazon Product Reviews to Elevate Marketplace Experience</b>
+    <img width="200" src="https://github.com/user-attachments/assets/09c7613b-01ed-4825-ac39-ad01fc3e65c5"> </img></td>
+    <td>Reviews have become an essential part of the online shopping experience. Reviews serve as the means for customers to make well-informed decisions on the quality of the product and services offered after the purchasing of the product. Our research aims to smoothen the decision-making process by evaluating customer insights and understanding what they find most helpful about products based on reviews. In this study, we are attempting to classify the reviews as being helpful or not based on their content, metadata, sentiment, and relevance to the product.</td>
+    <td><a href="https://github.com/eshita-ds/Machine-Learning-Projects/tree/main/Amazon-Review-Helpfulness-using-TFIDF">Link</a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td><a href="">Link</a></td>
+    <td><b>IoT Devices Network Anomany Detection using Machine Learning</b>
+    <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/8269c152-175b-4404-8dc1-33fa57f6d708" /></td>
+    <td>The Internet of Things (IoT) connects devices through sensors, software, and the internet, enabling real-time data exchange across industries. However, as the number of connected devices grows, IoT systems face significant security vulnerabilities. Machine learning (ML) offers a transformative solution for enhancing IoT security by detecting anomalies in real time. This project aims to develop predictive models powered by ML to anticipate future attack vectors, improving proactive security measures.</td>
+    <td><a href="https://github.com/eshita-ds/Machine-Learning-Projects/tree/main/IoT-Devices-Network-Anomaly-Detection">Link</a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td><a href="">Link</a></td>
+  <td><b>Implementing Clustering and Classification Algorithms from Scratch: K-Means, K-Means++, and KNN</b></td>
+  <td>The project focuses on understanding the inner workings of unsupervised learning techniques such as K-Means and K-Means++ for clustering, as well as the K-Nearest Neighbors (KNN) algorithm for classification. By building these algorithms manually, the goal is to gain deeper insights into their mathematical foundations, practical applications, and limitations.</td>
+  <td><a href="https://github.com/eshita-ds/Data-Mining-Projects/tree/main/Implementing_KMeans_KMeans%2B%2B_KNN_from_scratch">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>K-Nearest Neighbors Implementation from Sratch and using Scikit-Learn</b></td>
+    <td>Building K-NN classification models from scratch on IRIS dataset</td>
+    <td><a href="https://github.com/eshita-ds/Machine-Learning-Projects/tree/main/K-Nearest-Neighbors-Implementation-Scratch-and-SciKit-Learn">Link</a></td>
   </tr>
 </table>
--->
 
 <h3 align=center> Data Mining </h3>
 <table>
