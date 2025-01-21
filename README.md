@@ -62,6 +62,16 @@ Following is a highlight of the various projects I have implemented either indiv
     <td>The project involved focuses on building a code understanding model that allows users to upload custom code files and ask context-based questions about them. It also explores the ability for a chatbot to have iterative conversations using Custom text data or multiple documents. It also utilizes the ability to store chats in memory and provide a summary at the end of the session.</td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Code_understanding_and_Context_aware_chatbot_using_Langchain_and_OpenAI">Link</a></td>
   </tr>
+  <tr>
+    <td><b>Text Translation using NLP and Transformer based models</b></td>
+    <td></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Text_Translation_using_NLP_Transformer_based_models">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Training a Question and Answer model using BERT on SQUAD dataset</b></td>
+    <td></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Training_QnA_model_using_BERT_on_SQUAD_dataset">Link</a></td>
+  </tr>
 </table>
 
 <h3 align=center> Computer Vision </h3>
