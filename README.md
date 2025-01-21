@@ -67,39 +67,135 @@ Following is a highlight of the various projects I have implemented either indiv
 <!--
 <h3 align=center> Computer Vision </h3>
 
-|Project 1 | Project 2 | Project 3|
-|--- | ---| ---|
-|--- | ---| ---|
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Details</th>
+    <th>Repository Link</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+</table>
 
 <h3 align=center> Neural Networks </h3>
-
-|Project 1 | Project 2 | Project 3|
-|--- | ---| ---|
-|--- | ---| ---|
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Details</th>
+    <th>Repository Link</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+</table>
 
 <h3 align=center> Machine Learning (Supervised / Unsupervised) </h3>
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Details</th>
+    <th>Repository Link</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+</table>
 
-|Project 1 | Project 2 | Project 3|
-|--- | ---| ---|
-|--- | ---| ---|
 
 <h3 align=center> Data Mining </h3>
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Details</th>
+    <th>Repository Link</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="">Link</a></td>
+  </tr>
+</table>
 
-|Project 1 | Project 2 | Project 3|
-|--- | ---| ---|
-|--- | ---| ---|
+-->
 
 <h3 align=center> Database Systems </h3>
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Details</th>
+    <th>Repository Link</th>
+  </tr>
+  <tr>
+    <td><b>TerraBikes: Interactive BikeStore Management Application</b> <img width="200" alt="image" src="https://github.com/user-attachments/assets/2d3a12b3-7449-44e2-8828-381d4bdbab81" /></td>
+    <td>The Bike Store Management System is a comprehensive solution for managing daily operations and analyzing sales trends in a dynamic cycling retail environment. It combines Operational and Analytical aspects to provide a comprehensive application that can not only manage daily transactions but also help report on monthly metrics and statistics. The application has been built from ground up using PyQT5 framework and MySQL Database. </td>
+    <td><a href="https://github.com/eshita-ds/DBMS-Projects/tree/main/Interactive-BikeStore-App-using-pyQT">Link</a></td>
+  </tr>
+</table>
 
-|Project 1 | Project 2 | Project 3|
-|--- | ---| ---|
-|--- | ---| ---|
 
 <h3 align=center> Data Visualization </h3>
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Details</th>
+    <th>Repository Link</th>
+  </tr>
+  <tr>
+    <td><b>Extinguished Lights: A Visual deep dive into Infant Mortality</b>
+    <img width="200" alt="image" src="https://github.com/user-attachments/assets/6fee93dc-5462-4ba4-b1e2-0a25f972c165" />
+</td>
+    <td>Infant mortality refers to the tragic loss of babies before their first birthday, a global issue affecting societies regardless of geography or socio-economic status. With access to extensive global data, this research aims to analyze not just the prevalence of infant mortality but also the factors driving it.</td>
+    <td><a href="https://github.com/eshita-ds/Data-Visualization-Projects/tree/main/Study-on-Infant-Mortality-using-Tableau">Link</a></td>
+  </tr>
+</table>
 
-|Project 1 | Project 2 | Project 3|
-|--- | ---| ---|
-|--- | ---| ---|
 
 ## 🏛️ Courses / Certifications
 
