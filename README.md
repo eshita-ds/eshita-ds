@@ -127,7 +127,10 @@ Following is a highlight of the various projects I have implemented either indiv
     <th>Repository Link</th>
   </tr>
   <tr>
-    <td><b>Child Mind Institute: Problematic Internet Usage Detection</b></td>
+    <td><b>Child Mind Institute: Problematic Internet Usage Detection <br>
+    <img width=200 src="https://github.com/user-attachments/assets/f4c789c2-a714-4a57-92f7-6f07d18f719f"></img><br>
+    <i>Kaggle Competition:</i> <a href="https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/overview">Link</a>
+</b></td>
     <td></td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Child_Mind_Institute_PIU_Detection_using_ML_and_DL">Link</a></td>
   </tr>
@@ -147,7 +150,9 @@ Following is a highlight of the various projects I have implemented either indiv
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/blob/main/Spider_Classification_using_custom_CNN_and_GoogleNet">Link</a></td>
   </tr>
   <tr>
-    <td><b>Anime recommender system using Wide and Deep learning models</b></td>
+    <td><b>Anime recommender system using Wide and Deep learning models</b><br>
+      <img width=200 src="https://github.com/user-attachments/assets/a1b6ca74-65af-4c09-a30a-99befbe3a3a6"></img>
+</td>
     <td></td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Anime_recommender_system_using_wide_and_deep_learning_models">Link</a></td>
   </tr>
@@ -157,7 +162,9 @@ Following is a highlight of the various projects I have implemented either indiv
   <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Road_Sign_Detection_using_Custom_FastRCNN_and_YoloV8/Custom_FastRCNN">Link</a></td>
   </tr>
     <tr>
-  <td><b>Hand written digit recognition on QMNIST dataset using Neural Networks</b></td>
+  <td><b>Hand written digit recognition on QMNIST dataset using Neural Networks</b><br>
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/3fb88087-8c89-4a93-b373-eb1e35e338d7" />
+  </td>
   <td></td>
   <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/blob/main/Hand_Written_Digit_Recognition_QMNIST_using_NN">Link</a></td>
   </tr>
