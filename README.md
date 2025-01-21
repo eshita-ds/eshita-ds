@@ -64,7 +64,6 @@ Following is a highlight of the various projects I have implemented either indiv
   </tr>
 </table>
 
-<!--
 <h3 align=center> Computer Vision </h3>
 
 <table>
@@ -74,19 +73,39 @@ Following is a highlight of the various projects I have implemented either indiv
     <th>Repository Link</th>
   </tr>
   <tr>
+    <td><b>Object Detection and Inference using Yolo and Detectron on Tools Dataset</b></td>
     <td></td>
-    <td></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Object_Detection_and_inference_on_Tools_dataset_using_Yolo_and_Detectron">Link</a></td>
   </tr>
   <tr>
+    <td><b>Object Detection in a random Street Video with RCNN and Detectron</td>
     <td></td>
-    <td></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Object_Detection_in_Street_Scenes_with_RCNN_and_Detectron">Link</a></td>
   </tr>
   <tr>
+    <td><b>Road Sign detection using Yolo V8</td>
     <td></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Road_Sign_Detection_using_Custom_FastRCNN_and_YoloV8">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Implementing StyleGAN for Face Generation</td>
     <td></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Implementing_StyleGAN_for_Face_Generation">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Image Generation and Transformation using CycleGAN on Monet Dataset</td>
+    <td></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Image_generation_and_transformation_using_CycleGAN">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Image Generation & Model Refinement on Fashion MNIST dataset using Basic GAN and LSGAN</td>
+    <td></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Fashion_MNIST_Image_Generation_and_Model_Refinement_using_GANs">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Fake Image Generation using DCGAN</td>
+    <td></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Fake_Image_Generation_using_DCGAN">Link</a></td>
   </tr>
 </table>
 
@@ -98,22 +117,46 @@ Following is a highlight of the various projects I have implemented either indiv
     <th>Repository Link</th>
   </tr>
   <tr>
+    <td><b>Child Mind Institute: Problematic Internet Usage Detection</b></td>
     <td></td>
-    <td></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Child_Mind_Institute_PIU_Detection_using_ML_and_DL">Link</a></td>
   </tr>
   <tr>
+    <td><b>Sports Image classification using Custom CNN models and Fine Tuning</b></td>
     <td></td>
-    <td></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Image_classification_using_Custom_CNN_models_and_tuning">Link</a></td>
   </tr>
   <tr>
+    <td><b>Text Toxicity classification using LSTM and BiLSTM</b></td>
     <td></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Text_Toxicity_classification_using_LSTM_and_BILSTM">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Spider Classification using custom CNN models and GoogleNet</b></td>
     <td></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/blob/main/Spider_Classification_using_custom_CNN_and_GoogleNet">Link</a></td>
+  </tr>
+  <tr>
+    <td><b>Anime recommender system using Wide and Deep learning models</b></td>
+    <td></td>
+    <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Anime_recommender_system_using_wide_and_deep_learning_models">Link</a></td>
+  </tr>
+  <tr>
+  <td><b>Road Sign detection using Custom Fast RCNN with Residual Blocks</b></td>
+  <td></td>
+  <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Road_Sign_Detection_using_Custom_FastRCNN_and_YoloV8/Custom_FastRCNN">Link</a></td>
+  </tr>
+    <tr>
+  <td><b>Hand written digit recognition on QMNIST dataset using Neural Networks</b></td>
+  <td></td>
+  <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/blob/main/Hand_Written_Digit_Recognition_QMNIST_using_NN">Link</a></td>
+  </tr>
+      <tr>
+  <td><b>Diabetes prediction using Deep Neural Networks</b></td>
+  <td></td>
+  <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/blob/main/Diabetes_Prediction_using_Deep_Neural_Networks">Link</a></td>
   </tr>
 </table>
--->
 
 <h3 align=center> Machine Learning (Supervised / Unsupervised) </h3>
 <table>
