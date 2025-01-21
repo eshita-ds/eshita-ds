@@ -23,6 +23,11 @@ Whether it's developing predictive models, architecting data-driven systems, or 
 
 Excited to collaborate on impactful projects!!
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guptaeshita15/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/eshitagupta151991)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/eshitagupta/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shtgupta8)
+[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/shtgupta8)
 -------
 ## 📚 Expertise
 **🤖 AI and Machine Learning:** `Large Language Models (LLM)` `Langchain` `Retrieval Augmented Generation (RAG)` `Deep Learning` `Natural Language Processing` `Computer Vision` `Machine Learning`
