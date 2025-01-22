@@ -136,7 +136,7 @@ Following is a highlight of the various projects I have implemented either indiv
     <img width=200 src="https://github.com/user-attachments/assets/f4c789c2-a714-4a57-92f7-6f07d18f719f"></img><br>
     <i>Kaggle Competition:</i> <a href="https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/overview">Link</a>
 </b></td>
-    <td></td>
+    <td>Excessive internet use among children and adolescents poses significant public health challenges, affecting mental health and development. This project explores a novel approach to predict problematic internet use (PIU) by analyzing physical activity data. Using the Healthy Brain Network (HBN) dataset of ~5000 participants aged 5-22, we aim to model the Severity Impairment Index (SII), which classifies PIU severity into four levels (none, mild, moderate, severe).</td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Child_Mind_Institute_PIU_Detection_using_ML_and_DL">Link</a></td>
   </tr>
   <tr>
@@ -158,7 +158,7 @@ Following is a highlight of the various projects I have implemented either indiv
     <td><b>Anime recommender system using Wide and Deep learning models</b><br>
       <img width=200 src="https://github.com/user-attachments/assets/a1b6ca74-65af-4c09-a30a-99befbe3a3a6"></img>
 </td>
-    <td></td>
+    <td>Deep learning enhances recommendation systems by learning complex relationships in data, handling high-dimensional and sparse user-item interactions, and incorporating diverse data like images or text. Wide and Deep Learning introduced by Google improves recommendation accuracy by blending memorization and generalization, making it ideal for personalized anime recommendations. With this project we created a recommender system to predict Anime's based on use preferences.</td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Anime_recommender_system_using_wide_and_deep_learning_models">Link</a></td>
   </tr>
   <tr>
