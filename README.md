@@ -146,7 +146,8 @@ Following is a highlight of the various projects I have implemented either indiv
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Image_classification_using_Custom_CNN_models_and_tuning">Link</a></td>
   </tr>
   <tr>
-    <td><b>Text Toxicity classification using LSTM and BiLSTM</b></td>
+    <td><b>Text Toxicity classification using LSTM and BiLSTM<br><img width="200" alt="image" src="https://github.com/user-attachments/assets/235b62b6-7d08-4aee-a33a-da085728eb44" />
+</b></td>
     <td>This project focuses on building machine learning and deep learning models to classify text into multiple toxicity categories using a dataset of 1.8 million entries. It encompasses data preprocessing, feature engineering, model training, and performance visualization to deliver accurate and robust toxicity predictions.</td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Text_Toxicity_classification_using_LSTM_and_BILSTM">Link</a></td>
   </tr>
