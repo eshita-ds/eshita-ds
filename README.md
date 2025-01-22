@@ -141,7 +141,7 @@ Following is a highlight of the various projects I have implemented either indiv
   </tr>
   <tr>
     <td><b>Sports Image classification using Custom CNN models and Fine Tuning</b></td>
-    <td></td>
+    <td>Image classification with deep learning uses convolutional neural networks (CNNs) to automatically recognize and categorize images by extracting hierarchical features. This project involves training models on labeled datasets with optimization techniques like gradient descent and experimenting with configurations such as layers, neurons, epochs, batch sizes, and activation functions. This is to identify the best model configuration suited for our image classification problem. </td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Image_classification_using_Custom_CNN_models_and_tuning">Link</a></td>
   </tr>
   <tr>
