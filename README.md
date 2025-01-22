@@ -98,8 +98,9 @@ Following is a highlight of the various projects I have implemented either indiv
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Object_Detection_in_Street_Scenes_with_RCNN_and_Detectron">Link</a></td>
   </tr>
   <tr>
-    <td><b>Road Sign detection using Yolo V8</td>
-    <td></td>
+    <td><b>Road Sign detection using Custom Fast-RCNN and Yolo V8 <br> <img width="378" alt="image" src="https://github.com/user-attachments/assets/3cc5265f-25dd-452a-93d6-654a835ce4b5" />
+</td>
+    <td>This project focuses on road sign detection using custom and pre-trained models like YOLOv8. It includes data transformation, model implementation, IoU computation, and fine-tuning of YOLOv8n with various hyperparameters and augmentations. Comprehensive results and observations are documented for further exploration of object detection tasks.</td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Road_Sign_Detection_using_Custom_FastRCNN_and_YoloV8">Link</a></td>
   </tr>
   <tr>
@@ -160,11 +161,6 @@ Following is a highlight of the various projects I have implemented either indiv
 </td>
     <td>Deep learning enhances recommendation systems by learning complex relationships in data, handling high-dimensional and sparse user-item interactions, and incorporating diverse data like images or text. Wide and Deep Learning introduced by Google improves recommendation accuracy by blending memorization and generalization, making it ideal for personalized anime recommendations. With this project we created a recommender system to predict Anime's based on use preferences.</td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Anime_recommender_system_using_wide_and_deep_learning_models">Link</a></td>
-  </tr>
-  <tr>
-  <td><b>Road Sign detection using Custom Fast RCNN with Residual Blocks</b></td>
-  <td></td>
-  <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Road_Sign_Detection_using_Custom_FastRCNN_and_YoloV8/Custom_FastRCNN">Link</a></td>
   </tr>
     <tr>
   <td><b>Hand written digit recognition on QMNIST dataset using Neural Networks</b><br>
