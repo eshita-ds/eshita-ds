@@ -96,7 +96,8 @@ Following is a highlight of the various projects I have implemented either indiv
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Object_Detection_and_inference_on_Tools_dataset_using_Yolo_and_Detectron">Link</a></td>
   </tr>
   <tr>
-    <td><b>Object Detection in a random Street Video with RCNN and Detectron</td>
+    <td><b>Object Detection in a random Street Video with RCNN and Detectron</b><br><img width="250" alt="image" src="https://github.com/user-attachments/assets/b5abf8c5-56c0-474a-9f0b-ef93fcac6c7b" />
+</td>
     <td>This project focuses on applying RCNN and Detectron for object detection in a street video, aiming to identify and classify objects in dynamic, real-world environments. The goal is to evaluate the performance and accuracy of both models on video data. The performance of these models will be interpreted by how well they are able to identify objects in a random street video. </td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Object_Detection_in_Street_Scenes_with_RCNN_and_Detectron">Link</a></td>
   </tr>
