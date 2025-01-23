@@ -90,7 +90,8 @@ Following is a highlight of the various projects I have implemented either indiv
     <th>Repository Link</th>
   </tr>
   <tr>
-    <td><b>Object Detection and Inference using Yolo and Detectron on Tools Dataset</b></td>
+    <td><b>Object Detection and Inference using Yolo and Detectron on Tools Dataset</b><br><img width="250" alt="image" src="https://github.com/user-attachments/assets/7d955f22-defb-4f95-a2b0-760086b0d751" />
+</td>
     <td>This project involves implementing object detection models, YOLO and Detectron, to identify and classify different tools accurately from different pictures provided in the dataset. The objective is to compare model performance and optimize detection accuracy for real-world applications. The inference and bounding box accuracy will be an indicator of how well the model is able to detect objects (tools) in unseen photos. </td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Object_Detection_and_inference_on_Tools_dataset_using_Yolo_and_Detectron">Link</a></td>
   </tr>
