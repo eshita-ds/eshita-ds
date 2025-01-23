@@ -13,9 +13,9 @@ I’m a Master’s student in **Applied Data Science** at **San Jose State Unive
 ------
 ## 👩‍💻 About Me
 
-My journey combines the precision of mathematics with the innovation of data science. I have experience in developing AI-powered solutions, using deep learning and advanced analytics to tackle complex business challenges. Having worked on risk analysis, predictive modeling and forecasting initiatives in the banking sector, I bring proven expertise in translating data insights into strategic business decisions.
+My journey combines the precision of mathematics with the innovation of data science. Having worked on risk analysis, predictive modeling and forecasting initiatives in the banking sector, I bring proven expertise in translating data insights into strategic business decisions.
 
-What sets me apart is my approach to problem-solving – combining mathematical rigor with practical business acumen to create impactful solutions. I excel in developing sophisticated data pipelines, implementing machine learning models, and creating robust visualization solutions that drive actionable insights. My experience with large-scale data analysis and risk modeling has honed my ability to handle complex datasets and derive meaningful patterns.
+What sets me apart is my approach to problem-solving – combining mathematical rigor with practical business acumen to create impactful solutions. I honed my skills in developing sophisticated data pipelines, implementing machine learning models, and creating robust visualization solutions that drive actionable insights. My experience with large-scale data analysis and risk modeling has honed my ability to handle complex datasets and derive meaningful patterns.
 
 Having worked on multiple projects aiming to solve for real world problems, I have developed a keen sense of how to approach data modelling problems. Generating actionable insights from intricate patterns in the data fuels my desire to excel in the field of Data Science and AI. With rapidly changing technology landscape, I aim to utilize my knowledge and experience to contribute towards reshaping how we solve business problems. 
 
