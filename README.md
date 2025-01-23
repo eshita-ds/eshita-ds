@@ -53,12 +53,13 @@ Following is a highlight of the various projects I have implemented either indiv
     <th>Repository Link</th>
   </tr>
   <tr>
-    <td><b>RAG based chatbot for PDFs using Langchain and OpenAI</b></td>
+    <td><b>RAG based chatbot for PDFs using Langchain and OpenAI</b><br><img width="200" alt="image" src="https://github.com/user-attachments/assets/c9626b61-0c35-4831-891f-cd9cb8e4ea0c" />
+</td>
     <td> This project was focussed on building a Retrieval-Augmented Generation (RAG) system that uses pre-trained OpenAI model to process and answer user queries based on uploaded PDF documents. The implementation required leveraging LangChain and a vector database (ChromaDB) to index and retrieve information from the PDFs. </td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/RAG_based_chatbot_for_PDFs_using_Langchain_and_OpenAI">Link</a></td>
   </tr>
   <tr>
-    <td><b>Interactive Chatbot creation and Task automation with OpenAI</b></td>
+    <td><b>Interactive Chatbot creation and Task automation with OpenAI</b><br><img width="200" alt="image" src="https://github.com/user-attachments/assets/c9626b61-0c35-4831-891f-cd9cb8e4ea0c" /></td>
     <td>The project involved using OpenAI API and Langchain to create a chatbot that is capable of handling a sequence of chats and ability summarize the entire chat at the end of the session. The tasks involved solving a complex Maths problem, parse a PDF or Website and answer questions about the content or combine information from multiple sources and provide intelligent responses. </td>
     <td><a href="https://github.com/eshita-ds/Deep-Learning-Projects/tree/main/Interactive_Chatbot_Creation_and_Task_Automation_with_OpenAI">Link</a></td>
   </tr>
