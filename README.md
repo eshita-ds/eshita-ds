@@ -4,26 +4,27 @@
 
 <h2 align="center">👋 Welcome to My GitHub!</h2>
 
-I’m a Master’s student in **Applied Data Science** at **San Jose State University** graduating in May 2025. I have over **10 years of industry experience** with an existing Master's in Mathematics & Scientific Computing. Known for my strong fundamentals, problem-solving mindset, and resilience, I thrive on uncovering insights and creating data-driven solutions that drive impact.
+I am a Data scientist and data engineer with experience playing a key part in establishing data science and data engineering as disciplines for 400 branches at a consumer products company.
 
-🔍 **Currently seeking** full-time roles in **Data Science and AI** to innovate, lead, and contribute to solving meaningful challenges.
-
-*🌟 Curious, collaborative, and outcome-driven — let’s shape the future with data!*
 
 ------
 ## 👩‍💻 About Me
 
-**From over a decade in Public Sector Banking to the ever-evolving field of Data Science**, my journey is one of curiosity, transformation, and purpose. During my tenure, I was immersed in a sea of raw data—every entry, every column - realizing its immense potential to drive decisions and strategies. With my raw analytical skills, I was able to tap into the business insights, yet, I yearned for more: more insights, more precision, and more meaningful outcomes. This passion, coupled with my background in Mathematics, ignited my transition into the exciting world of Data Science and AI/ML.
+In my career I have provided expertise in the following areas.
 
-I’m currently **pursuing a Master’s in Applied Data Science at San Jose State University (graduating May 2025)**. I have gained comprehensive knowledge on building predictive models using **Machine Learning Algorithms and Deep Learning**. Complementing my analytical abilities are skills like **DBMS (SQL and NoSQL), Data Visualization, Big Data, Statistics & Probability, and Hypothesis Testing**. I have also dived into the realm of Artificial Intelligence navigating into concepts like **Computer Vision, Generative Adversarial Network (GANs), Transformers, Large Language Models (LLMs) and Retrieval Augment generation (RAG)**. I have gained hands-on experience through projects that bridge the gap between theory and application. 
+ **Data Science:** Improved accuracy of business decisions in a 400-branch region by 27%, raised success rates by 15%, and played major part in shortening key process times by 35% as business volume increased by 20% by leading data-driven initiatives, automating processes, and scaling the use of data science. Enabled several products to surpass their revenue targets by 50% after they were falling short.
 
-My key projects include building a **RAG-based chatbot for PDFs, Text Toxicity Classification, Object Detection using CNN, GAN-based Image Generation/Transformation, Recommender systems, and Social Media Listening using a real-time Reddit data pipeline with Kafka on AWS EC2**. My GUI-based project, "**TerraBikes: Interactive BikeStore Management Application**" (built using PyQT5 framework and MySQL), achieved the **highest score in the class and garnered significant appreciation and recognition**. My GitHub portfolio is a showcase of my projects and related work, demonstrating my ability as a Data Scientist or AI/ML Engineer. 
+ **Data Analysis:** Structured the data from the 400 branches for the first time, standardized it, and performed exploratory data analysis. Identified critical features, and helped set up business-critical dashboards (in Tableau) to track performance across multiple KPIs.
 
-A key highlight of my academic experience is my capstone project. I am currently working on building an Intelligent Tutoring System that will be trained on a large corpus of data in the Education domain. Tuned **LLMs augmented with RAG that can utilize chain-of-thought reasoning** to improve overall solution transparency and interpretability is my ultimate goal with this project. 
+ **Machine Learning Engineering:** Developed an AI-based math tutoring system that allows students to ask any question and provides step-by-step answers. Trained an NLP model to analyze 1.4M comments on social media. Built machine learning and deep learning models that enabled analysis of multi-class toxicity in 1.8M textual records.
 
-Beyond my professional pursuits, I’m an avid swimmer who loves perfecting her strokes (YouTube tutorials are my secret swim coach!). I also enjoy mentoring and guiding others, driven by my belief in the power of shared knowledge and continuous growth. My professional journey and project-driven experiences have honed me into a sharpened pencil, eager to sketch innovative solutions on the real-world canvas.😊 
+ **Data Engineering:** Built robust data structures and data pipelines with scalable infrastructure, using AWS, OCI, Airflow, Kafka, and PySpark. Automated CI/CD workflows, and deployed interactive UIs via Gradio, Stremlit, and PyQt. Enabled real-time inference and modular model serving across diverse applications.
 
-Let’s connect! I’m eager to collaborate and turn innovative ideas into impactful solutions. Reach out on LinkedIn or via email (**gupta.eshita01@gmail.com**) — I look forward to exploring new opportunities together.
+ **Business Growth:** Improved customer satisfaction and increased upsales at the company by enabling it to reduce query response times and improving data accuracy for analyzing customer data.
+
+ **Communication:** Regularly interacted with customers. Built dashboards for upper management, made data more visualizable, and wrote reports that told the stories behind the numbers.
+
+Outside of work, I’m an avid swimmer and mentor who enjoys sharing knowledge and creating innovative, real-world solutions.😊 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guptaeshita15/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/eshitagupta151991)
