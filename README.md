@@ -303,7 +303,15 @@ Following is a highlight of the various projects I have implemented either indiv
 </table>
 
 
-## 🏛️ Courses / Certifications
+## 🏛️ Education / Certifications
+- M.S. in Applied Data Science, San José State University (2023–2025)\
+**Focus**: Machine Learning, NLP, MLOps, Explainable AI
+
+- M.S. in Mathematics and Scientific Computing, NIT Allahabad\
+**Focus**: Linear Algebra, Optimization, Probability, and Numerical Methods
+
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- [Google Data Analytics Professional certificate](https://github.com/eshita-ds/credentials/blob/main/Google_DA%20CT6A87T4864Q.pdf)
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 - [Python for Data Science and Machine Learning Bootcamp](https://github.com/eshita-ds/credentials/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf)
@@ -319,3 +327,7 @@ Following is a highlight of the various projects I have implemented either indiv
 - [Large Language Models (LLMs) Concepts](https://github.com/eshita-ds/credentials/blob/main/Large%20Language%20Models%20(LLMs)%20Concepts.pdf)
 - [Working with the OpenAI API](https://github.com/eshita-ds/credentials/blob/main/Working%20with%20the%20OpenAI%20API.pdf)
 
+## 📬 Let’s Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/guptaeshita15/)  
+🌐 [Portfolio](https://github.com/eshita-ds)  
+📧 gupta.eshita01@gmail.com  
