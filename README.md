@@ -56,7 +56,8 @@ Following is a highlight of the various projects I have implemented either indiv
     <th>Repository Link</th>
   </tr>
   <tr>
-    <td><b>Capstone Project:LLM Tuning for Chain of Thought Reasoning</b><br><img width="711" height="116" alt="image" src="https://github.com/user-attachments/assets/6e8b0392-65a5-4bb8-96b2-e9d7019967b0" />
+    <td><b>Capstone Project:LLM Tuning for Chain of Thought Reasoning</b><br><img width="711" height="116" alt="image" src=<img width="573" height="338" alt="image" src="https://github.com/user-attachments/assets/73385d9c-2a40-4879-872b-1da1f91a3bf0" />
+
 </td>
     <td> Developed an intelligent reasoning system that enhances LLM interpretability by fine-tuning models using reinforcement learning techniques including DPO, and GRPO to provide detailed step-by-step explanations for complex mathematical problems. Built end-to-end MLOps pipeline with Apache Airflow (Oracle Cloud) and AWS for automated model retraining and continuous improvement. Fine-tuning achieved 38% improvement in G-eval reasoning scores over baseline models and 82% step alignment accuracy on GSM8K and MATH benchmarks, deployed as production-ready Gradio chatbot on Hugging Face with user authentication and chat persistence. </td>
     <td><a href="https://github.com/eshita-ds/LLM-Tuning-for-COT-Reasoning">Link</a></td>
