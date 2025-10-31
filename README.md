@@ -329,5 +329,5 @@ Following is a highlight of the various projects I have implemented either indiv
 
 ## 📬 Let’s Connect  
 💼 [LinkedIn](https://www.linkedin.com/in/guptaeshita15/)  
-🌐 [Portfolio](https://github.com/eshita-ds)  
+🌐 [Portfolio](https://eshita-ds.github.io/)  
 📧 gupta.eshita01@gmail.com  
