@@ -155,7 +155,9 @@ Following is a highlight of the various projects I have implemented either indiv
     <td><a href="https://github.com/eshita-ds/Neural-Networks/tree/main/Child_Mind_Institute_PIU_Detection_using_ML_and_DL">Link</a></td>
   </tr>
   <tr>
-    <td><b>Sports Image classification using Custom CNN models and Fine Tuning</b></td>
+    <td><b>Sports Image classification using Custom CNN models and Fine Tuning <br>
+    <img width=200 src="https://github.com/user-attachments/assets/275b94db-ea2d-41f1-bf0d-fc653ef28f21"></img>
+</b></td>
     <td>Image classification with deep learning uses convolutional neural networks (CNNs) to automatically recognize and categorize images by extracting hierarchical features. This project involves training models on labeled datasets with optimization techniques like gradient descent and experimenting with configurations such as layers, neurons, epochs, batch sizes, and activation functions. This is to identify the best model configuration suited for our image classification problem. </td>
     <td><a href="https://github.com/eshita-ds/Neural-Networks/tree/main/Image_classification_using_Custom_CNN_models_and_tuning">Link</a></td>
   </tr>
