@@ -1,30 +1,21 @@
-![github-header-image (5)](https://github.com/user-attachments/assets/59fe01c8-6688-4418-85cd-1c1fb81caff8)
+
 
 <p align="center"><b>🌟 Data-Driven Innovator | Problem-Solver | AI Enthusiast 🚀</b></p>
 
 <h2 align="center">👋 Welcome to My GitHub!</h2>
 
-I am a Data scientist and data engineer with experience playing a key part in establishing data science and data engineering as disciplines for 400 branches at a consumer products company.
-
-
 ------
 ## 👩‍💻 About Me
+**Hi, I am Eshita!!**
 
-In my career I have provided expertise in the following areas.
 
- **Data Science:** Improved accuracy of business decisions in a 400-branch region by 27%, raised success rates by 15%, and played major part in shortening key process times by 35% as business volume increased by 20% by leading data-driven initiatives, automating processes, and scaling the use of data science. Enabled several products to surpass their revenue targets by 50% after they were falling short.
 
- **Data Analysis:** Structured the data from the 400 branches for the first time, standardized it, and performed exploratory data analysis. Identified critical features, and helped set up business-critical dashboards (in Tableau) to track performance across multiple KPIs.
-
- **Machine Learning Engineering:** Developed an AI-based math tutoring system that allows students to ask any question and provides step-by-step answers. Trained an NLP model to analyze 1.4M comments on social media. Built machine learning and deep learning models that enabled analysis of multi-class toxicity in 1.8M textual records.
-
- **Data Engineering:** Built robust data structures and data pipelines with scalable infrastructure, using AWS, OCI, Airflow, Kafka, and PySpark. Automated CI/CD workflows, and deployed interactive UIs via Gradio, Stremlit, and PyQt. Enabled real-time inference and modular model serving across diverse applications.
-
- **Business Growth:** Improved customer satisfaction and increased upsales at the company by enabling it to reduce query response times and improving data accuracy for analyzing customer data.
-
- **Communication:** Regularly interacted with customers. Built dashboards for upper management, made data more visualizable, and wrote reports that told the stories behind the numbers.
-
-Outside of work, I’m an avid swimmer and mentor who enjoys sharing knowledge and creating innovative, real-world solutions.😊 
+I am a Data Scientist with expertise in machine learning, NLP, and generative AI. Hands-on experience fine-tuning LLMs,
+building RAG systems, developing AI agents, and deploying production ML pipelines. MS in Applied Data Science
+with a strong mathematical foundation (MS in Mathematics & Computer Science). Skilled in developing end-to-end ML
+solutions, from feature engineering and model training to agentic workflows and real-time inference. Strong domain
+understanding of customer behavior, product engagement, business KPIs, and risk-reward tradeoffs.
+😊 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guptaeshita15/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/eshitagupta151991)
@@ -304,10 +295,13 @@ Following is a highlight of the various projects I have implemented either indiv
 
 
 ## 🏛️ Education / Certifications
-- M.S. in Applied Data Science, San José State University (2023–2025)\
+- M.S. in Applied Data Science, San José State University, San Jose, CA, USA (2023–2025)\
 **Focus**: Machine Learning, NLP, MLOps, Explainable AI
 
-- M.S. in Mathematics and Scientific Computing, NIT Allahabad\
+- M.S. in Mathematics and Scientific Computing, NIT Allahabad, India\
+**Focus**: Linear Algebra, Optimization, Probability, and Numerical Methods
+
+- B.S. in Mathematics, Dayalbagh Educational Institute, Agra, India\
 **Focus**: Linear Algebra, Optimization, Probability, and Numerical Methods
 
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
